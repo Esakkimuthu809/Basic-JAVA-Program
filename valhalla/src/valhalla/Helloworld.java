@@ -6,7 +6,7 @@ public class Helloworld {
 		// TODO Auto-generated method stub
 		String a="hi";
 		 String Dog="Hello";
-		 String e="welcomee";
+		 String e="welcome";
 		System.out.println(a);
          System.out.println(Dog);
          System.out.println(e);
