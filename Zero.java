@@ -17,6 +17,7 @@ public class Zero {
 			System.out.println("Invalid Input");
 			System.out.println("Number of candies Left:"+n);
 		}
+		System.out.println("Hello world");
 		
 	}
 }
